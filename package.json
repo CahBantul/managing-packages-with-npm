@@ -12,5 +12,6 @@
     "type": "git",
     "url": "https://github.com/CahBantul/managing-packages-with-npm"
   },
-  "description": "learn nodejs and build api"
+  "description": "learn nodejs and build api",
+	"keywords": [ "create api with nodejs", "apis", "nodejs" ],
 }
