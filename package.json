@@ -2,7 +2,8 @@
   "author": "Cah Bantul",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "^2.14.0"
   },
   "main": "server.js",
   "scripts": {
@@ -13,7 +14,12 @@
     "url": "https://github.com/CahBantul/managing-packages-with-npm"
   },
   "description": "learn nodejs and build api",
-	"keywords": [ "create api with nodejs", "apis", "nodejs", "freecodecamp" ],
-	"license": "MIT",
-	"version": "1.1.0"
+  "keywords": [
+    "create api with nodejs",
+    "apis",
+    "nodejs",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "1.1.0"
 }
